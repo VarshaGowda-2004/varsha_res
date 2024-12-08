@@ -1,0 +1,21 @@
+Explaination: 
+The project involves designing and deploying a personal website comprising multiple web pages for showcasing a Resume and Bio-data. The website incorporates relevant HTML elements for structure and styling using CSS for enhanced presentation. Basic interactivity and user experience improvements are achieved using 
+JavaScript/jQuery. 
+
+Development Process: 
+1.	HTML Structure: 
+The website contains two main pages: 
+•	Resume Page: Displays educational qualifications, work experience, skills, certifications, and contact details. 
+•	Bio-data Page: Includes personal details like name, address, hobbies, and other profile-related information. 
+Semantic elements like <header>, <nav>, <main>, <section>, and <footer> were used for better readability and SEO optimization. 
+2.	Styling with CSS: 
+•	A consistent colour scheme and responsive design were implemented using CSS. 
+•	A navigation bar styled with flexbox ensures seamless transitions between pages. 
+•	The Resume page employs CSS grids to organize information neatly. 
+3.	Interactivity with JavaScript/jQuery: 
+•	JavaScript/jQuery is used for dynamic effects such as smooth scrolling, modals for additional information, and a contact form with real-time validation. 
+4.	Hosting on Cloud Platform: 
+•	The website was hosted on a cloud platform such as GitHub Pages, Netlify, or Vercel for easy accessibility. 
+•	The deployment process included uploading files to the hosting service and setting up a custom domain. 
+5.	Responsive Design: 
+•	Media queries ensured compatibility across devices (desktop, tablet, and mobile). 
